@@ -1,0 +1,5 @@
+.idea/*
+*.ipynb_*
+GoogleCourse/notMNIST*
+GoogleCourse/text8*
+foodfacts/en.openfoodfacts.org.products*
