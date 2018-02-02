@@ -1,6 +1,10 @@
 .idea/*
+*/.idea/*
 *.ipynb_*
 GoogleCourse/notMNIST*
 GoogleCourse/text8*
 foodfacts/en.openfoodfacts.org.products*
 foodfacts/world-food-facts.zip
+titanic/weights.w
+titanic/dataset.npz
+
