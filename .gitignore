@@ -7,4 +7,7 @@ foodfacts/en.openfoodfacts.org.products*
 foodfacts/world-food-facts.zip
 titanic/weights.w
 titanic/dataset.npz
-
+DataCleaning/data/*
+procompetition/dataset.npz
+procompetition/Competition_Data-20180322T051546Z-001.zip
+sales1c/sales_train*
